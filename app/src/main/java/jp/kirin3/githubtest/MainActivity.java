@@ -15,5 +15,7 @@ public class MainActivity extends AppCompatActivity {
         Log.w( "DEBUG_DATA", "first1");
 
         Log.w( "DEBUG_DATA", "developer1");
+
+        Log.w( "DEBUG_DATA", "feature_x");
     }
 }
