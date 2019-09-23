@@ -13,5 +13,13 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         Log.w( "DEBUG_DATA", "first1");
+
+        Log.w( "DEBUG_DATA", "developer1");
+
+        Log.w( "DEBUG_DATA", "feature_x");
+        Log.w( "DEBUG_DATA", "feature_y");
+
+        Log.w( "DEBUG_DATA", "feature_shinji2_xew");
+        Log.w( "DEBUG_DATA", "feature_shinji2_y");
     }
 }
